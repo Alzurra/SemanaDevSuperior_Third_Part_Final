@@ -1,3 +1,21 @@
+# SemanaDevSuperior_Third_Part_Final
+
+<h2>Semana Spring React</h2>
+<h3>This code was based on the project of professor Nélio Alves.</h3>
+<h3>Dashbord of Sales</h3> 
+
+<div>
+
+![image](https://user-images.githubusercontent.com/64970716/117504659-3325d680-af59-11eb-916f-dd1894aa056e.png)
+
+![image](https://user-images.githubusercontent.com/64970716/117504901-8e57c900-af59-11eb-8fc1-05ca98ebd10d.png)
+
+
+</div>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
